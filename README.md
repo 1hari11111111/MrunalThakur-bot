@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/8e0fca27184354f479593.jpg" alt="TG_BOTZ Logo">
+  <img src="https://telegra.ph/file/acf0c0d08b9bd175bb13c.jpg" alt="TG_BOTZ Logo">
 </p>
 <h1 align="center">
   TG_UPDATES1
@@ -71,7 +71,7 @@ we are nothing without your support please support us to bring more features in 
 
 <b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://t.me/TG_BOTS_UPDATE'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
-<a href='https://t.me/TG_Autofilter1_Bot'>🅳︎🅴︎🅼︎🅾︎ 🅱︎🅾︎🆃︎</a>
+<a href='https://t.me/mrunalinibot'>🅱︎🅾︎🆃︎</a>
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
@@ -121,7 +121,7 @@ we are nothing without your support please support us to bring more features in 
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
+* `CHANNELS`: Username or ID of Data base channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com).
