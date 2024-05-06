@@ -266,8 +266,8 @@ Mᴏᴠɪᴇs Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ:
 🗂 𝗙𝗶𝗹𝗲: <b><font class=smcp>{file_name}</font></b>
 📀 𝗦𝗶𝘇𝗲: <b><font class=smcp>{file_size}</font></b>
 
-<b>🔰 Cʀᴇᴀᴛᴏʀ : <a href="https://t.me/hariogram">𝐇𝐀𝐑𝐈𝟕𝟕𝟕</a>
-🔰 Cʜᴀɴɴᴇʟ : <a href="hhttps://t.me/haris_garage">𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+<b>🔰 Cʀᴇᴀᴛᴏʀ : <a href="https://t.me/hariogram">𝐇𝐀𝐑𝐈 𝟕𝟕𝟕</a>
+🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/haris_garage">𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 🔰 Gʀᴏᴜᴘ : <a href="https://t.me/jointypeit">𝐌𝐎𝐕𝐈𝐄 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a></b>"""
     
     IMDB_TEMPLATE_TXT = """
